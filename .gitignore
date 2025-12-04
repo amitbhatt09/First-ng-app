@@ -40,3 +40,18 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Angular / build outputs
+dist/
+build/
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
